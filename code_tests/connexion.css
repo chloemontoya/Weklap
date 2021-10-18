@@ -39,7 +39,6 @@ form {
 
 img {
     height: 40vh;
-    margin-top: 15vh;
     padding-bottom: 50px;
 }
 
@@ -51,19 +50,16 @@ input {
     border-radius: 10px;
     border: none;
     height: 2vw;
+    width: 26.5vw;
 }
 
 input::placeholder {
     color: white;
 }
 
-#pseudo, #email, #pwd {
-    width: 26.5vw;
-}
-
 #valider, #visiter {
     width: 15vw;
-    height: 3vw;
+    height: 4vw;
     background-color: #2CC8DE;
     border: none;
     border-radius: 10px;
