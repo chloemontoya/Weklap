@@ -21,7 +21,7 @@ body {
 
 .card {
     position: relative;
-    height: 55vh;
+    height: 67vh;
     width: 20vw;
     border-radius: 20px;
     background: rgba(255, 255, 255, 0.2);
@@ -41,4 +41,14 @@ img {
 .description,
 .moment {
     text-align: left;
+}
+
+input {
+    background-color: #1E1E1E;
+    color: white;
+    font-family: 'Poppins';
+    border: none;
+    height: 10vh;
+    width: 15vw;
+    border-radius: 15px;
 }
